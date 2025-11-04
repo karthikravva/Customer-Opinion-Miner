@@ -1,0 +1,5 @@
+{
+  "name": "Customer Opinion Miner",
+  "description": "An application to mine customer opinions from Google Sheets or local files, analyze sentiment with Gemini, and generate actionable insights.",
+  "requestFramePermissions": []
+}
